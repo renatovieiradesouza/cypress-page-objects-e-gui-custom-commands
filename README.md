@@ -38,6 +38,3 @@ Here you will find the implementation of:
 - [The Page Object](./cypress/pageObjects/signup.js)
 - [And the GUI custom command](./cypress/support/commands.js)
 
-___
-
-Made with 💚 by [Walmyr](https://walmyr.dev).
